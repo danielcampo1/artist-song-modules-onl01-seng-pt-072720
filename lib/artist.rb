@@ -1,5 +1,5 @@
 require 'pry'
-require_
+require_relative 
 
 class Artist
   
