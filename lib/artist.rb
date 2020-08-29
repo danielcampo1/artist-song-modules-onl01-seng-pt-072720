@@ -1,5 +1,5 @@
 require 'pry'
-require
+require_relative ".lib/concerns"
 
 class Artist
   
