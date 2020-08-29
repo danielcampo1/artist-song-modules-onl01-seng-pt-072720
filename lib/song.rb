@@ -14,7 +14,7 @@ include Memorable::InstanceMethods
 
 def initialize
   super
-  @@songs = []
+  @songs = []
 end
 
   def initialize
